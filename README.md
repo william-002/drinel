@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estudadando Front-End e Back-end, desde banco de dados SQL e linguagem Java, até Angular, Html, Css e Javascript
+- 🔭 Estudando Front-End e Back-end, desde banco de dados SQL e linguagem Java, até Angular, Html, Css e Javascript
 - 🌱 Aprofundado conhecimentos em Javascript
 
 
