@@ -3,7 +3,7 @@
 
 
 - 🔭 Estudando Front-End e Back-end, desde banco de dados SQL e linguagem Java, até Angular, Html, Css e Javascript
-- 🌱 Aprofundado conhecimentos em Javascript
+- 🌱 Aprofundado conhecimentos em Fullstack com as tecnologias citadas.
 
 
 <div>
@@ -11,10 +11,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William&theme=swift&show_icons=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drinel&layout=compact&langs_count=6">
   
-    
-  
   
 </div
+    <br>
   
 <div><br>
     <img height="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg'>
